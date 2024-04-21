@@ -22,13 +22,11 @@ Welcome to my GitHub! I'm Aashish Pokherel, a dedicated Full-Stack Developer wit
 
 - **<span style="color:orange">Description</span>**: A comprehensive hotel management system for managing reservations, guest information, room allocations, billing, and reporting.
 - **<span style="color:orange">Technologies Used</span>**: React.js, Node.js, MongoDB, Express.js
-- **<span style="color:orange">GitHub Repository</span>**: [Link to GitHub repository]
 
 ### <span style="color:green">SMS (Student Management System)</span>
 
 - **<span style="color:green">Description</span>**: An efficient student management system for educational institutions to manage student records, attendance, grades, and communication.
 - **<span style="color:green">Technologies Used</span>**: Angular, Django, PostgreSQL
-- **<span style="color:green">GitHub Repository</span>**: [Link to GitHub repository]
 
 ### <span style="color:red">Web and Booking</span>
 
